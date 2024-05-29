@@ -15,6 +15,7 @@ Recette
 - 100g de chocolat noir
 - 1 cuillère à café de sel
 - 1 cuillère à café de levure chimique
+- 1 cuillère à café de levure chimique
 
 
     Toujours en local, réaliser un autre commit CETTE FOIS-CI GRÂCE À L’INTERFACE DE VOTRE IDE DÉDIÉE À GIT (dans VSCode ou PHPStorm) avec les étapes de la recette dans un fichier spécifique (steps.md) :
