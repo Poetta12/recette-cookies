@@ -15,6 +15,3 @@ Recette
 - 100g de chocolat noir
 - 1 cuillère à café de sel
 - 1 cuillère à café de levure chimique
-
-
-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
